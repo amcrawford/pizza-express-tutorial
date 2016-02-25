@@ -1,0 +1,20 @@
+{
+  "name": "pizza-express",
+  "version": "1.0.0",
+  "description": "PIZZA",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Amber Crawford",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "request": "^2.69.0"
+  }
+}
